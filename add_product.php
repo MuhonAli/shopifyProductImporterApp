@@ -1,8 +1,8 @@
 <?php 
 require_once("inc/functions.php");
 
-$token = "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";
-$shop = "muhon-learning";
+$token = "shop id";
+$shop = "shop name";
 ?>
 
 <!DOCTYPE html>
